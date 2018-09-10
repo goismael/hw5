@@ -1,0 +1,53 @@
+﻿body{
+    background-color:aliceblue;
+}
+
+.one{ 
+    font-size: 15px;
+    background-color: aqua;
+    box-sizing:10px ;
+}
+
+.two{
+    font-size: 15px;
+    background-color: red;
+}
+
+.three{
+    font-size: 15px;
+    background-color: yellow;
+}
+
+#winone{
+    background-color: aqua;
+    font-size: 50px;
+}
+
+#wintwo{
+    background-color: red                   ;
+    font-size: 50px;
+}
+
+#winthree{
+    background-color: yellow;
+}
+
+button {
+    background-color:lightgreen;
+    background-size: 10px;
+}
+
+input {
+    width: 150px;
+    height: 75px;
+
+}
+
+#msg1 {
+    font-size: 150px;
+}
+
+#spinme:hover{
+    background-color: darkgreen;
+    font-size:x-large;
+}
